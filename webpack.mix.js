@@ -1,4 +1,6 @@
 const { mix } = require('laravel-mix');
+require('node-sass');
+require('laravel-elixir-vue-2');
 
 /*
  |--------------------------------------------------------------------------
